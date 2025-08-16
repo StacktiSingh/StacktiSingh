@@ -2,16 +2,16 @@
 
 <h1 align="center">Hey, I'm Shakti Singh 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Python+Developer;Full+Stack+Learner;Data+Analyst+%7C+Flask+%7C+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Python+Developer;Exploring+Machine+Learning;Data+Analyst+%7C+Flask+%7C+Power+BI" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 👨‍💻 Self-taught developer with a love for clean UI + powerful backend
+- 👨‍💻 Part Time Developer 
 - 🐝 Data Analyst
-- 🚀 Learning **Full Stack Web Development**
+- 🚀 Exploring Machine Learning and Gen AI
 - 💡 Strong in: `Python`, `Flask`, `Pandas`, `SQL`, `Power BI`
 - 📚 Always learning, building, failing fast, and leveling up ⚔️
 
