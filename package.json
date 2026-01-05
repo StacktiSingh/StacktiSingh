@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "node src/index.js",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json}\"",
+    "prettier:fix": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json}\"",
+    "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\" --fix",
+    "test": "mocha \"src/**/*.{js,jsx,ts,tsx}\""
+  },
+  "main": "src/index.js",
+  "author": "Thomashighbaugh",
+  "name": "thomashighbaugh",
+  "version": "0.0.5",
+  "homepage": "https://github.com/Thomashighbaugh/Thomashighbaugh#readme",
+  "dependencies": {
+    "date-stringifier": "^2.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.0",
+    "eslint": "^8.32.0",
+    "mocha": "^10.2.0"
+  }
+}
