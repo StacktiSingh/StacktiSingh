@@ -1,5 +1,5 @@
 <p align="center"><img src="src/resources/images/banner.svg" width="850" height="450"/></p>
-<p align="center"><a href="https://my-portfolio-phi-mocha-53.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3c3c3c?logo=firefox&style=for-the-badge&logoColor=6AB0F3"/></a>
+<p align="center"><a href="https://portfolio-shakti-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3c3c3c?logo=firefox&style=for-the-badge&logoColor=6AB0F3"/></a>
 <a href="https://www.linkedin.com/in/shakti-3311h"><img src="https://img.shields.io/badge/linkedin-3c3c3c?logo=linkedin&style=for-the-badge&logoColor=6AB0F3"/></a>
 <a href="mailto:sharkt930@gmail.com"><img src="https://img.shields.io/badge/email-3c3c3c?logo=gmail&style=for-the-badge&logoColor=6AB0F3"/></a>
 </p>
