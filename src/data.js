@@ -23,7 +23,7 @@ module.exports = {
       {
         type: 'badge',
         name: 'portfolio',
-        href: 'https://your-portfolio-website.com', // Replace with your portfolio URL
+        href: 'https://portfolio-shakti-six.vercel.app/', // Replace with your portfolio URL
         logo: 'firefox',
       },
       {
